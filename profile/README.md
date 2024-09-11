@@ -4,7 +4,7 @@ This is UnstoppableSwap, the anonymous, trustless and secure software for Bitcoi
 In this organization we host multiple repositories which contain all the open source code for our different subprojects:
 
  - In [`unstoppableswap-gui`](https://github.com/UnstoppableSwap/unstoppableswap-gui) we host the source code to our current graphical user interface (GUI) 
- - In [`core`](https://github.com/UnstoppableSwap/xmr-btc-swap) we maintain a monorepo which contains the rust binaries as well as our new GUI based on Tauri
+ - In [`core`](https://github.com/UnstoppableSwap/core) we maintain a monorepo which contains the rust binaries as well as our new GUI based on Tauri
  - In [`unstoppableswap-docs`](https://github.com/UnstoppableSwap/unstoppableswap-docs) we write documentation for our [docs page](https://docs.unstoppableswap.net) about atomic swaps in general as well as our software
  - In [`asb-docker-compose`](https://github.com/UnstoppableSwap/asb-docker-compose) we provide accessable docker images for those interested in running a swap provider service
  - In [`unstoppableswap-site`](https://github.com/UnstoppableSwap/unstoppableswap-site) we host the source code for our main [website](https://unstoppableswap.net/)

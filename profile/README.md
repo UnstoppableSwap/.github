@@ -8,3 +8,5 @@ In this organization we host multiple repositories which contain all the open so
  - In [`unstoppableswap-docs`](https://github.com/UnstoppableSwap/unstoppableswap-docs) we write documentation for our [docs page](https://docs.unstoppableswap.net) about atomic swaps in general as well as our software
  - In [`asb-docker-compose`](https://github.com/UnstoppableSwap/asb-docker-compose) we provide accessable docker images for those interested in running a swap provider service
  - In [`unstoppableswap-site`](https://github.com/UnstoppableSwap/unstoppableswap-site) we host the source code for our main [website](https://unstoppableswap.net/)
+
+Join our [Matrix space](https://matrix.to/#/#unstoppableswap-space:matrix.org) to follow our development more closely.

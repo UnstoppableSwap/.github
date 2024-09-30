@@ -1,5 +1,5 @@
 # UnstoppableSwap
-This is UnstoppableSwap, the anonymous, trustless and secure software for Bitcoin <-> Monero atomic swaps. 
+This is UnstoppableSwap, the trustless and secure software for Bitcoin <-> Monero atomic swaps. 
 
 In this organization we host multiple repositories which contain all the open source code for our different subprojects:
 
